@@ -30,7 +30,7 @@ WhisperAI (Whisp for short) is a desktop-based voice assistant designed to enhan
 ### Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/RioGuglielmelli/WhisperAI
+git clone https://github.com/RioGuglielmelli/WhisperAI.git
 cd whisperAI
 \`\`\`
 
@@ -134,3 +134,6 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 3. Make your changes and commit them (\`git commit -am 'Add new feature'\`).
 4. Push to the branch (\`git push origin feature/your-feature\`).
 5. Open a Pull Request.
+
+
+
